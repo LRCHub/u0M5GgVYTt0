@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ネオンサイン",
+  "base_artist": "Яu-a",
+  "createdAt": "2025-12-03T12:20:55.691039Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ネオンサイン",
+      "artist": "THE BLUE HEARTS",
+      "has_synced": true,
+      "path": "select/01_ネオンサイン_THE_BLUE_HEARTS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ネオンサイン",
+      "artist": "Яu-a",
+      "has_synced": false,
+      "path": "select/pl_01_ネオンサイン_Яu-a.txt"
+    }
+  ]
+}
